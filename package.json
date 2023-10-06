@@ -1,0 +1,23 @@
+{
+  "name": "servidor_nodejs",
+  "version": "1.0.0",
+  "description": "sera un server completo en Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gilberto501/server_completo_nodejs.git#server_completo_nodejs"
+  },
+  "keywords": [
+    "npm",
+    "nodejs"
+  ],
+  "author": "Gilberto Borboa Cortinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gilberto501/server_completo_nodejs/issues"
+  },
+  "homepage": "https://github.com/Gilberto501/server_completo_nodejs/tree/server_completo_nodejs#readme"
+}
